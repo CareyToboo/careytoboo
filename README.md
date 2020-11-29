@@ -4,8 +4,6 @@ I am working on the **Ovine** in my spare time. It is an interesting and challen
 
 If any ideas about Ovine, please let me know.
 
-`Ovine needs you, a smart and skilled developer!  Welcome to join us ~`
-
 [Ovine-Doc](https://ovine.igroupes.com/org/)  [Ovine-Demo](https://ovine.igroupes.com/demo/login)  [Ovine-Editor](https://ovine.igroupes.com/demo/craft)
 
 
